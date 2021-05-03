@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/true-happiness/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/true-happiness/static/js/main.f32b393d.chunk.js",
+    "main.js.map": "/true-happiness/static/js/main.f32b393d.chunk.js.map",
+    "runtime-main.js": "/true-happiness/static/js/runtime-main.49f5f8a7.js",
+    "runtime-main.js.map": "/true-happiness/static/js/runtime-main.49f5f8a7.js.map",
+    "static/js/2.144eafa2.chunk.js": "/true-happiness/static/js/2.144eafa2.chunk.js",
+    "static/js/2.144eafa2.chunk.js.map": "/true-happiness/static/js/2.144eafa2.chunk.js.map",
+    "static/js/3.12aaecbb.chunk.js": "/true-happiness/static/js/3.12aaecbb.chunk.js",
+    "static/js/3.12aaecbb.chunk.js.map": "/true-happiness/static/js/3.12aaecbb.chunk.js.map",
+    "index.html": "/true-happiness/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/true-happiness/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.144eafa2.chunk.js.LICENSE.txt": "/true-happiness/static/js/2.144eafa2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/true-happiness/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49f5f8a7.js",
+    "static/js/2.144eafa2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f32b393d.chunk.js"
+  ]
+}
